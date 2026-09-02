@@ -9,17 +9,17 @@ Projeto do Desafio DIO - Análise de vendas, lucro e performance por país e seg
 ## 📊 Visão das Páginas
 
 ### Página 1 - Visão de Produtos: O que vende?
-!Análise de vendas e lucro por produto e segmento.
+Análise de vendas e lucro por produto e segmento.
 
 ![Página 1](prints/1.png)
 
 ### Página 2 - Visão Temporal: Quando vende?
-!Evolução de vendas e lucro ao longo do tempo (Mês/Ano).
+Evolução de vendas e lucro ao longo do tempo (Mês/Ano).
 
 ![Página 2](prints/2.png)
 
 ### Página 3 - Visão Geográfica e Estratégica: Onde lucra?
-!Lucratividade por país e segmento. France é o país mais lucrativo.
+Lucratividade por país e segmento. France é o país mais lucrativo.
 
 ![Página 3](prints/3.png)
 
