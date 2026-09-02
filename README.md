@@ -6,7 +6,7 @@
 
 Projeto do Desafio DIO - Análise de vendas, lucro e performance por país e segmento.
 
-#O dataset simula uma empresa global de bicicletas com 6 modelos. O foco da análise não é o produto em si, mas a performance de vendas por segmento e país.
+O dataset simula uma empresa global de bicicletas com 6 modelos. O foco da análise não é o produto em si, mas a performance de vendas por segmento e país.
 
 ## 📊 Visão das Páginas
 
