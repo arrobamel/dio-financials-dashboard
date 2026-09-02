@@ -18,7 +18,7 @@ Análise de vendas e lucro por produto e segmento.
 **Modelos de bicicleta fictícios:**
 
 - Paseo = Bike de passeio - urbana (por isso mais vende)
-- VTT = Vélo Tout Terrain - bike de trilha (por isso é a mais cara, ~140)
+- VTT = Vélo Tout Terrain - bike de trilha (por isso é a mais cara ~140)
 - Velo = Bike de estrada / velocidade
 - Amarilla = Linha esportiva intermediária
 - Montana = Mountain bike (subida/trilha)
